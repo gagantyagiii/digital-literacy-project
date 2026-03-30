@@ -9,7 +9,7 @@
 **Course:** CSE0001 - Digital Literacy 
 
 ## Project Overview
-Welcome to my Digital Literacy Portfolio. [cite_start]I have created this repository as part of my role as a Student Digital Ambassador. The goal of this project is to help my peers navigate the digital world safely and professionally—from creating online profiles to understanding cybercrime prevention. This repository contains all my deliverables across the five modules of the course.
+Welcome to my Digital Literacy Portfolio. I have created this repository as part of my role as a Student Digital Ambassador. The goal of this project is to help my peers navigate the digital world safely and professionally—from creating online profiles to understanding cybercrime prevention. This repository contains all my deliverables across the five modules of the course.
 
 ## Repository Structure
 This repository is organized into the following directories[cite: 14]:
